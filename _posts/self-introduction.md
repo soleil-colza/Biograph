@@ -4,13 +4,13 @@ excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 coverImage: "/assets/blog/preview/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: ひなりん (Hina Nakahira)
+  name: ひなりん
   picture: "/assets/blog/author/hinalin.png"
 ogImage:
   url: "/assets/blog/preview/cover.jpg"
 ---
 
-自己紹介的なことを書きたい
+5 ヶ国語喋る元フィジーク選手の Android エンジニアです。
 
 ## 資格
 
