@@ -46,7 +46,7 @@ FinTech 系自社アプリの開発に携わる。
 **株式会社サイバーエージェント**(2023 年 12 月～ 2024 年 3 月) — CA Tech Accel (Android), CA Tech Dojo (Android)
 
 
-**株式会社Yappli** — Android エンジニア(Jetpack Compose)
+**株式会社Yappli**(2024 年 4 月～ 2024 年 5 月) — Android エンジニア(Jetpack Compose)
 
 ▷ 2024 年 5 月～
 
