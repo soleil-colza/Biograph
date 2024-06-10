@@ -1,6 +1,6 @@
 ---
-title: "self-introduction.md"
-excerpt: "About Me のようなもの"
+title: "self-introduction.md - About Me"
+excerpt: "5ヶ国語を話す元フィジーク選手の Android エンジニアです。自己紹介をする機会が増えてきたので、Web 入門がてらブログサイトを作ってみました。"
 coverImage: "/assets/blog/self-introduction/cover.jpg"
 date: "2024-06-11"
 author:
@@ -57,13 +57,13 @@ FinTech 系自社アプリの開発に携わる。
 
 **NID.kt**：Android エンジニアコミュニティ
 
-学生社会人半々、150 人規模のDiscord鯖。勉強会やイベントを日々開催。
+学生社会人半々、150 人規模の Discord 鯖。勉強会やイベントを日々開催。
 
 VC やチャットが常に動いており、非常にアクティブ 🫶🏻💚
 
 ご参加は[こちら](https://discord.gg/Ask2rSEt)から。
 
-定期イベント「Ktlintくんのお気持ちを理解して仲良しになろう」「この2週間でStarしたリポジトリをゆるく共有しながら読む会」など。
+定期イベント「Ktlint くんのお気持ちを理解して仲良しになろう」「この 2 週間で Star したリポジトリをゆるく共有しながら読む会」など。
 
 **STECH**：上位 1%の学生エンジニア・デザイナーのためのコミュニティ
 
