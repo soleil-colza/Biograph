@@ -48,9 +48,8 @@ FinTech 系自社アプリの開発に携わる。
 
 **株式会社Yappli**(2024 年 4 月～ 2024 年 5 月) — Android エンジニア(Jetpack Compose)
 
-▷ 2024 年 5 月～
 
-**Sansan株式会社** — Android エンジニア(Kotlin Multiplatform)
+**Sansan株式会社**(2024 年 5 月～) — Android エンジニア(Kotlin Multiplatform)
 
 ## コミュニティ
 
