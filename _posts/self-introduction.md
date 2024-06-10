@@ -1,8 +1,8 @@
 ---
 title: "self-introduction.md"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/preview/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+excerpt: "About Me のようなもの"
+coverImage: "/assets/blog/self-introduction/cover.jpg"
+date: "2024-06-11"
 author:
   name: ひなりん
   picture: "/assets/blog/author/hinalin.png"
@@ -10,7 +10,19 @@ ogImage:
   url: "/assets/blog/preview/cover.jpg"
 ---
 
-5 ヶ国語を話す元フィジーク選手の Android エンジニアです。
+初めまして。Hina Nakahira と申します 🙌🏻✨
+
+普段はひなりん(hinalin)というHNで活動しています 🙆‍♀️
+
+5 ヶ国語を話す元フィジーク選手の Android エンジニアです 📱🏋️‍♀️
+
+自己紹介をする機会が増えてきたので、Web入門がてらブログサイトを作ってみました。
+
+とはいえ、Next のBlog template があまりに美麗で正直ほとんど全く手を加えておりません。
+
+今後気が向いたら、体裁を整えたり可読性を上げたりしていこうかなと考えています。
+
+よろしければ読んでいってください。
 
 ### 🌖 略歴
 
@@ -31,19 +43,17 @@ FinTech 系自社アプリの開発に携わる。
 
 結局「やりたいことが多すぎる」にかまけてモラトリアムを謳歌し、好きな技術を触りながら長期インターンやフリーランスで食べている。
 
-🌕🌖🌗🌘🌑🌒🌓🌔🌎🌍🌏
+### 🌗 インターン遍歴
 
-### 🌘 インターン遍歴
-
-**株式会社Habitto**：2022 年 9 月～ 2024 年 2 月 — モバイルアプリエンジニア
+**株式会社Habitto**：2022 年 9 月~現在 — モバイルアプリエンジニア
 
 **株式会社サイバーエージェント**：2023 年 12 月～ 2024 年 3 月 — CA Tech Accel (Android), CA Tech Dojo (Android)
 
 **株式会社Yappli**：2024 年 4 月～ 2024 年 5 月 — Android エンジニア(Jetpack Compose)
 
-**Sansan株式会社**：2024 年 5 月～ — Android エンジニア(Kotlin Multiplatform)
+**Sansan株式会社**：2024 年 5 月~現在 — Android エンジニア(Kotlin Multiplatform)
 
-### コミュニティ運営
+### 🌘 コミュニティ運営
 
 **NID.kt**：Android エンジニアコミュニティ
 
@@ -55,7 +65,7 @@ VC やチャットが常に動いている 😇
 
 代表を務める。
 
-### 登竜門プロジェクト
+### 🌒 登竜門プロジェクト
 
 入学したての学生に、Web・モバイル・デザインの３領域に触れ、「好き」を見つけてエンジニア人生にロケットスタートを切ってもらう「登竜門Hack」
 
@@ -64,7 +74,7 @@ VC やチャットが常に動いている 😇
 Androidネイティブのハンズオンも行い、Androidエンジニア人口を増やすことに成功(重要)！！🍾🎊
 
 
-### 🌕 好きなもの
+### 🌓 好きなもの
 
 **車**：三菱パジェロジュニア フライングパグ乗り。バイクはHonda Joker。
 
@@ -74,7 +84,7 @@ Androidネイティブのハンズオンも行い、Androidエンジニア人口
 
 **筋肉**：Vitasのキウイ味で体ができてる。
 
-## 🌗 資格
+### 🌔 資格
 英検1級、仏検準1級など。応用取りたい。
 
 
