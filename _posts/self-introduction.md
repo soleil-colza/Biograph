@@ -1,8 +1,8 @@
 ---
 title: "self-introduction.md"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/preview/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+excerpt: "About Me のようなもの"
+coverImage: "/assets/blog/self-introduction/cover.jpg"
+date: "2024-06-11"
 author:
   name: ひなりん
   picture: "/assets/blog/author/hinalin.png"
@@ -10,12 +10,21 @@ ogImage:
   url: "/assets/blog/preview/cover.jpg"
 ---
 
-5 ヶ国語を話す元フィジーク選手の Android エンジニアです。
+初めまして。Hina Nakahira と申します 🙌🏻✨
 
-## 🌗 資格
-英検1級、仏検準1級など。応用取りたい。
+普段はひなりん(hinalin)という HN で活動しています 🙆‍♀️
 
-## 🪐 略歴
+5 ヶ国語を話す元フィジーク選手の Android エンジニアです 📱🏋️‍♀️
+
+自己紹介をする機会が増えてきたので、Web 入門がてらブログサイトを作ってみました。
+
+とはいえ、Next の Blog template があまりに美麗で正直ほとんど全く手を加えておりません。
+
+今後気が向いたら、体裁を整えたり可読性を上げたりしていこうかなと考えています。
+
+よろしければ読んでいってください。
+
+### 🌖 略歴
 
 アイルランドと日本の高校を卒業。
 
@@ -23,7 +32,7 @@ ogImage:
 
 3 年次で休学し、University of London にて Computer Science を学ぶ。
 
-1 年の秋から Habitto にてモバイルアプリエンジニアのインターン。
+1 年の秋から [Habitto](https://www.habitto.com/) にてモバイルアプリエンジニアのインターン。
 
 FinTech 系自社アプリの開発に携わる。
 
@@ -34,37 +43,53 @@ FinTech 系自社アプリの開発に携わる。
 
 結局「やりたいことが多すぎる」にかまけてモラトリアムを謳歌し、好きな技術を触りながら長期インターンやフリーランスで食べている。
 
-### 🌕 趣味
+### 🌗 インターン遍歴
 
-🌕🌖🌗🌘🌑🌒🌓🌔🌎🌍🌏
+**株式会社 Habitto**：2022 年 9 月~現在 — モバイルアプリエンジニア
 
-### 🌏 インターン遍歴
+**株式会社サイバーエージェント**：2023 年 12 月～ 2024 年 3 月 — CA Tech Accel (Android), CA Tech Dojo (Android)
 
-**株式会社Habitto**: 2022 年 9 月～ 2024 年 2 月 — モバイルアプリエンジニア
+**株式会社 Yappli**：2024 年 4 月～ 2024 年 5 月 — Android エンジニア(Jetpack Compose)
 
-**株式会社サイバーエージェント**: 2023 年 12 月～ 2024 年 3 月 — CA Tech Accel (Android), CA Tech Dojo (Android)
+**Sansan 株式会社**：2024 年 5 月~現在 — Android エンジニア(Kotlin Multiplatform)
 
-**株式会社Yappli**: 2024 年 4 月～ 2024 年 5 月 — Android エンジニア(Jetpack Compose)
+### 🌘 コミュニティ運営
 
+**NID.kt**：Android エンジニアコミュニティ
 
-**Sansan株式会社**: 2024 年 5 月～ — Android エンジニア(Kotlin Multiplatform)
+学生社会人半々、150 人規模のDiscord鯖。勉強会やイベントを日々開催。
 
-## コミュニティ
+VC やチャットが常に動いており、非常にアクティブ 🫶🏻💚
 
-▷ **NID.kt** - Android エンジニアコミュニティ
+ご参加は[こちら](https://discord.gg/Ask2rSEt)から。
 
-学生社会人半々、150 人規模。勉強会やイベントを日々開催。
-VC やチャットが常に動いている 😇
-ご参加はこちらから。
+定期イベント「Ktlintくんのお気持ちを理解して仲良しになろう」「この2週間でStarしたリポジトリをゆるく共有しながら読む会」など。
 
-▷ **STECH** - 上位 1%の学生エンジニア・デザイナーのためのコミュニティ
+**STECH**：上位 1%の学生エンジニア・デザイナーのためのコミュニティ
 
 代表を務める。
 
-▷ **Tech.Uni** - 国内最大級の IT 系インカレサークル
+### 🌒 登竜門プロジェクト
 
-1 年生から所属。
+入学したての学生に、Web・モバイル・デザインの３領域に触れ、「好き」を見つけてエンジニア人生にロケットスタートを切ってもらう「[登竜門 Hack](https://nxtend.connpass.com/event/316511/)」
 
-## イベント運営
+そのゲームクライアント向け「[登竜門 Jam](https://nxtend.connpass.com/event/316947/)」を通して、同世代を牽引するエンジニアの輩出をもくろむ。
 
-> 登竜門プロジェクト
+Android ネイティブのハンズオンも行い、Android エンジニア人口を増やすことに成功(重要)！！🍾🎊
+
+### 🌓 好きなもの
+
+**車**：三菱パジェロジュニア フライングパグ乗り。バイクは Honda Joker。
+
+![Flying pug from the side](/assets/blog/self-introduction/pug1.png)
+![Flying pug from the front](/assets/blog/self-introduction/pug2.png)
+
+**ポケモン**：第 5 世代おばさん。
+
+**自然言語**：英語、フランス語、日本語、アイルランド語、ラテン語、イタリア語、ロシア語…音声学に焦点を当てた対照言語学や、意味論・語用論など。
+
+**筋肉**：Vitas のキウイ味で体ができてる。
+
+### 🌔 資格
+
+英検 1 級、仏検準 1 級など。応用取りたい。
