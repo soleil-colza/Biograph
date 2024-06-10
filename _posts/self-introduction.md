@@ -38,24 +38,24 @@ FinTech 系自社アプリの開発に携わる。
 
 ### 🌏 インターン遍歴
 
-**株式会社Habitto**: 2022 年 9 月～ 2024 年 2 月 — モバイルアプリエンジニア
+**株式会社Habitto**：2022 年 9 月～ 2024 年 2 月 — モバイルアプリエンジニア
 
-**株式会社サイバーエージェント**: 2023 年 12 月～ 2024 年 3 月 — CA Tech Accel (Android), CA Tech Dojo (Android)
+**株式会社サイバーエージェント**：2023 年 12 月～ 2024 年 3 月 — CA Tech Accel (Android), CA Tech Dojo (Android)
 
-**株式会社Yappli**: 2024 年 4 月～ 2024 年 5 月 — Android エンジニア(Jetpack Compose)
+**株式会社Yappli**：2024 年 4 月～ 2024 年 5 月 — Android エンジニア(Jetpack Compose)
 
 
-**Sansan株式会社**: 2024 年 5 月～ — Android エンジニア(Kotlin Multiplatform)
+**Sansan株式会社**：2024 年 5 月～ — Android エンジニア(Kotlin Multiplatform)
 
 ### コミュニティ運営
 
-**NID.kt** - Android エンジニアコミュニティ
+**NID.kt**：Android エンジニアコミュニティ
 
 学生社会人半々、150 人規模。勉強会やイベントを日々開催。
 VC やチャットが常に動いている 😇
 ご参加はこちらから。
 
-**STECH** - 上位 1%の学生エンジニア・デザイナーのためのコミュニティ
+**STECH**：上位 1%の学生エンジニア・デザイナーのためのコミュニティ
 
 代表を務める。
 
