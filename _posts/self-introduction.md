@@ -36,23 +36,19 @@ FinTech 系自社アプリの開発に携わる。
 
 ▷ 2022 年 9 月～ 2024 年 2 月
 
-株式会社 Habitto — モバイルアプリエンジニア
+**株式会社Habitto** — モバイルアプリエンジニア
 
 ▷ 2023 年 12 月～ 2024 年 3 月
 
-株式会社サイバーエージェント — CA Tech Accel (Android), CA Tech Dojo (Android)
+**株式会社サイバーエージェント** — CA Tech Accel (Android), CA Tech Dojo (Android)
 
 ▷ 2024 年 4 月～ 2024 年 5 月
 
-株式会社 Yappli — Android エンジニア(Jetpack Compose)
+**株式会社Yappli** — Android エンジニア(Jetpack Compose)
 
-▷ 2024 年 5 月～ 2024 年 6 月
+▷ 2024 年 5 月～
 
-Sansan 株式会社 — Android エンジニア(Kotlin Multiplatform)
-
-▷ 2024 年 7 月~
-
-STORES 株式会社 — Android エンジニア(Jetpack Compose)
+**Sansan株式会社** — Android エンジニア(Kotlin Multiplatform)
 
 ## コミュニティ
 
