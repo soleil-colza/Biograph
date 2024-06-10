@@ -32,7 +32,7 @@ ogImage:
 
 3 年次で休学し、University of London にて Computer Science を学ぶ。
 
-1 年の秋から Habitto にてモバイルアプリエンジニアのインターン。
+1 年の秋から [Habitto](https://www.habitto.com/) にてモバイルアプリエンジニアのインターン。
 
 FinTech 系自社アプリの開発に携わる。
 
@@ -85,6 +85,7 @@ Androidネイティブのハンズオンも行い、Androidエンジニア人口
 **筋肉**：Vitasのキウイ味で体ができてる。
 
 ### 🌔 資格
+
 英検1級、仏検準1級など。応用取りたい。
 
 
